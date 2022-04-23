@@ -1,7 +1,7 @@
 Hi! 👋
-My name is Vince, and I'm 15.
+My name is Vince, and I'm 15 Y/O.
 
-• I'm currently working to make custom scripts.
+• I'm currently learning to make custom fivem scripts.
 
 Currently Learning
 • LUA
